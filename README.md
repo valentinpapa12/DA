@@ -7,4 +7,4 @@ En el archivo "edx.ipynb" se puede encontrar todo este proceso de análisis come
 Tecnologías utilizadas:
 
 -Pandas
--Numpy
+-Seaborn
